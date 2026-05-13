@@ -153,7 +153,7 @@ experience with the following concepts:
 
 <p align="center">
 <strong>Gavneet Singh</strong><br>
-GitHub: <a href="https://github.com/gavneet0030">gavneet0030</a>
+GitHub: <a href="https://github.com/gavneet0030">ishagiri03</a>
 </p>
 
 <hr>
